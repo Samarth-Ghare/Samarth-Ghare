@@ -1,3 +1,24 @@
+# 💫 Hi 👋, I'm Samarth Suresh Ghare
+**A passionate AI-ML Engineer || CSE(AI) Student || DATA Scientist from India**
+
+Email Me 👉 ✉️ **gharesamarth2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** AI Powered Global Talent Research and recommendation Engine
+- 🌱 **I’m currently learning:** AI Approaches and RAG pipelines
+- 👯 **I’m looking to collaborate on:** AI Hiring System
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** gharesamarth2@gmail.com
+- 😄 **Pronouns:** Samarth Ghare
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Samarth Suresh Ghare&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Sam_Ghare_27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samarth Ghare) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Samarth Suresh Ghare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gharesamarth2@gmail.com) 
